@@ -1,0 +1,11 @@
+Bean There v0.4 — GitHub 上傳指南
+
+1. 解壓縮 ZIP。
+2. GitHub 新增 repository，名稱 bean-there，選 Public，開啟 Add README，按 Create repository。
+3. Add file → Upload files。把解壓縮資料夾內的所有檔案和資料夾拖進頁面（不要上傳 ZIP，也不要把最外層資料夾包進去）。
+4. 確認 index.html 位於 repo 最外層，assets 資料夾裡有 factory.webp，按 Commit changes。
+5. Settings → Pages → Build and deployment：Source 選 Deploy from a branch，Branch 選 main，資料夾選 /(root)，Save。
+6. 等待部署，Pages 頁面會顯示遊戲網址。
+
+Windows 電腦拖曳整批檔案及資料夾最方便。
+本機：雙擊 index.html 即可遊玩，不需要安裝套件。
